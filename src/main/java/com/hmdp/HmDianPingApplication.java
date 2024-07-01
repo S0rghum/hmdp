@@ -16,6 +16,7 @@ public class HmDianPingApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(HmDianPingApplication.class, args);
+        System.out.println("哪个颜色标签是远程");
     }
 
 }
